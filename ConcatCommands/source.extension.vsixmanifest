@@ -4,6 +4,7 @@
         <Identity Id="ConcatCommands.11be39d4-1fae-473b-b12d-24349008eedd" Version="1.0" Language="en-US" Publisher="Christian Scheer" />
         <DisplayName>ConcatCommands</DisplayName>
         <Description xml:space="preserve">A Visual Studio extension that adds the command "Tools.ConcatCommands" to the Command Window. With this command you can execute multiple commands sequentially i.e. "Tools.ConcatCommands View.C#Interactive &amp;&amp; View.F#Interactive &amp;&amp; nav https://www.microsoft.com".</Description>
+        <MoreInfo>https://github.com/christianscheer/ConcatCommands</MoreInfo>
         <License>LICENSE</License>
         <Icon>Icon.png</Icon>
         <PreviewImage>PreviewImage.png</PreviewImage>
